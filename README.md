@@ -48,6 +48,12 @@ Learn more here : <a href="https://man7.org/linux/man-pages/man3/printf.3.html">
 
 Printf always returns an integer, so ft_printf must do it too. It is important that you don't forget this once you started the project.
 
+<details><summary>My grade</summary>
+  
+  ![image](https://user-images.githubusercontent.com/91686183/169927289-9e8dcfa1-7789-4b1d-a6fb-b9d1b8f90dce.png)
+  
+</details> 
+ 
 <hr>
 I hope you found it interesting! <br>
 And if you are going to do ft_printf, I wish you good luck and hope that you learned something here!
