@@ -1,7 +1,12 @@
 # 42_ft_printf
-<h3>Assignment</h3>
+### Assignment
 
 This project is about programming the famous printf() function.
+
+### Skills Learned
+
+  - Rigor
+  - Algorithms & AI
 
 <h3>Goal</h3>
 
